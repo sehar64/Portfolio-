@@ -24,7 +24,7 @@ export default function Skills() {
     {
       degree: "Bachelor's in Information Technology",
       institution: "University Name",
-      period: "2022 - Present",
+      period: "2023 - Present",
       status: "In Progress",
       description: "Focusing on web development, software engineering, and database management.",
     },
